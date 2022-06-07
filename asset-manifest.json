@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/fossilGames/static/css/main.976018e0.css",
+    "main.js": "/fossilGames/static/js/main.d3111995.js",
+    "static/media/What_is_the_Predator_X.mp4": "/fossilGames/static/media/What_is_the_Predator_X.5e57eb309f62b7971043.mp4",
+    "static/media/Yixian_Cindy_Joli.png": "/fossilGames/static/media/Yixian_Cindy_Joli.191aa809b17b6c09992e.png",
+    "static/media/IMG_7073.PNG": "/fossilGames/static/media/IMG_7073.ce48eeccd53c7e6e89c0.PNG",
+    "static/media/IMG_9595.PNG": "/fossilGames/static/media/IMG_9595.a9a6a5d9ef0cd0610fdc.PNG",
+    "static/media/IMG_9630.PNG": "/fossilGames/static/media/IMG_9630.195244a4a2cd77995f88.PNG",
+    "static/media/Yixian_Meetup.jpeg": "/fossilGames/static/media/Yixian_Meetup.aafc3e3feaa02989ad56.jpeg",
+    "static/media/IMG_2596.JPG": "/fossilGames/static/media/IMG_2596.1891ff4e9b99e08cce9d.JPG",
+    "static/media/IMG_2542.JPG": "/fossilGames/static/media/IMG_2542.738fe3006d34f9706a76.JPG",
+    "static/media/IMG_1907.JPG": "/fossilGames/static/media/IMG_1907.54b52b4c9a20030e3038.JPG",
+    "static/media/IMG_7498.JPG": "/fossilGames/static/media/IMG_7498.d7395d1398b3f350b645.JPG",
+    "static/media/IMG_8084.JPG": "/fossilGames/static/media/IMG_8084.a05abb037ad2046d8032.JPG",
+    "static/media/IMG_7495.JPG": "/fossilGames/static/media/IMG_7495.22736491e88b6f25b8eb.JPG",
+    "static/media/IMG_9887.JPG": "/fossilGames/static/media/IMG_9887.21a3ea11ef76496d1ac6.JPG",
+    "static/media/IMG_7494.JPG": "/fossilGames/static/media/IMG_7494.b17ad0f5569c66ff014d.JPG",
+    "static/media/IMG_0066.JPG": "/fossilGames/static/media/IMG_0066.f351c3ea534a2218d9ca.JPG",
+    "static/media/IMG_0056.JPG": "/fossilGames/static/media/IMG_0056.c74c10edfca6031556be.JPG",
+    "static/media/IMG_0092.PNG": "/fossilGames/static/media/IMG_0092.b9902597807d73e1f296.PNG",
+    "static/media/IMG_5948.JPG": "/fossilGames/static/media/IMG_5948.9cb175f95296a853becd.JPG",
+    "static/media/firstBackgroundIMG.JPG": "/fossilGames/static/media/firstBackgroundIMG.173d7a2692f26f24929d.JPG",
+    "index.html": "/fossilGames/index.html",
+    "main.976018e0.css.map": "/fossilGames/static/css/main.976018e0.css.map",
+    "main.d3111995.js.map": "/fossilGames/static/js/main.d3111995.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.976018e0.css",
+    "static/js/main.d3111995.js"
+  ]
+}
