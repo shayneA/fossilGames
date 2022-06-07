@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;900&display=swap');
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    scroll-behavior: smooth;
+    font-family: 'Roboto', Courier, monospace;
+    
+}
+
+/* styling for background image */
+
+.first-Big-Img{
+  height: 100vh;
+  width: 100vw;
+  position: relative;
+  background-size: cover;
+  background-position: 50% 30%;
+  background-image: url("./assets/firstBackgroundIMG.JPG");
+  background-repeat: no-repeat;
+}
+
+/* styling for background image Overlay */
+.overlay {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    background: rgba(24, 39, 51 , 0.6);
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+  }
+
+
+  .last-Big-Img{
+    height: 100vh;
+    width: 100vw;
+    position: relative;
+    background-size: cover;
+    background-position: 50% 50%;
+    background-image: url("./assets/IMG_9595.PNG");
+    background-repeat: no-repeat;
+  }
+  
+  /* styling for background image Overlay */
+  
+  .overlay_two {
+      position: absolute;
+      height: 100%;
+      width: 100%;
+      top: 0;
+      left: 0;
+      background: rgba(0, 0, 0, 0.2);
+      color: white;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-direction: column;
+    }
+
+    .App{
+      position: relative;
+      overflow-x: hidden;
+    }

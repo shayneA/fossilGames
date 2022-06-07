@@ -1,0 +1,16 @@
+.title {
+    margin: auto;
+    text-align: center;
+    color: rgb(229, 255, 0);
+    letter-spacing: 2.5px;
+    font-size: 2.5rem;
+    height: 3rem;
+}
+
+.newReleases-container{
+    background-color: rgb(74, 75, 74);
+}
+
+.border-bottom{
+    height: 3rem;
+}

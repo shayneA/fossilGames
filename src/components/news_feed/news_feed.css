@@ -1,0 +1,37 @@
+.NewsFeed-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+   
+}
+
+.Feed{
+    max-width: 900px;
+    min-width: 420px;
+    margin-left: 2em;
+    margin-right: 2em;
+    margin-top: 2em;
+    background-color: rgba(0, 0, 0, 0.349);
+    padding: 1em;
+}
+
+@media only screen and (max-width: 600px) {
+    .Feed {
+        margin-left: .3em;
+        margin-right: .3em;
+        min-width: 280px;
+        font-size: 13px;
+        margin-top: 0em;
+    }
+}
+
+@media only screen and (max-width: 300px) {
+    .Feed {
+        margin-left: .3em;
+        margin-right: .3em;
+        min-width: 270px;
+        font-size: 10px;
+    }
+}
+

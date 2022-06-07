@@ -1,0 +1,71 @@
+/* Change color of first layer above image & below image */
+  .slider-gap {
+    height: 40px;
+    background-color: rgb(136, 132, 132);
+  }
+
+
+  .name{
+    position: absolute;
+    top: 1.5%;
+    letter-spacing: .1rem;
+    color: aliceblue;
+    font-size: 2rem;
+  }
+
+  .mySwiperr {
+    display: block;
+    height: 100%;
+  }
+
+  .image {
+    max-height: 100vh;
+    max-height: 100vw;
+  } 
+
+
+
+  @media only screen and (min-width: 1050px) {
+
+    .mySwiperr .swiper-button-next {
+      right: 4em;
+    }
+  
+    .mySwiperr .swiper-button-prev {
+      left: 4em;
+    }
+
+  }
+
+  .mySwiperr .swiper-button-prev{
+    font-size: 50px;
+    color: #fff;
+    text-shadow: 0 0 5px #333;
+    line-height: 1;
+
+  }
+  
+  .mySwiperr .swiper-button-next {
+    font-size: 50px;
+    color: #fff;
+    text-shadow: 0 0 5px #333;
+    line-height: 1;
+  }
+
+  .mySwiperr .swiper-button-next:hover{
+    opacity: 0.6;
+  }
+
+  .mySwiperr .swiper-button-prev:hover{
+    opacity: 0.6;
+  }
+  
+  .mySwiperr .swiper-button-next:active {
+    color: #d9ff00c2;
+    opacity: 1;
+  }
+
+  .mySwiperr .swiper-button-prev:active {
+    color: #d9ff00c2;
+    opacity: 1;
+  }

@@ -1,0 +1,67 @@
+#footer-container{
+    width: 100vw;
+    height: 15em;
+    display: flex;
+    align-items:baseline;
+    justify-content: center;
+    background-color: rgb(189, 189, 189);
+
+}
+
+.footer-sub-container{
+    text-align: center;
+    background-color: #3b82a3;
+    width: 70vw;
+    height: 13em;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.btn {
+    width: 8em;
+    height: 3em;
+    border-radius: 5px;
+    font-size: 15px;
+    font-weight: bold;
+    letter-spacing: .1em;
+    color: rgb(199, 251, 255);
+    background: rgb(24,255,25);
+    background: -moz-linear-gradient(40deg, rgba(24,255,25,1) 0%, rgba(4,133,80,1) 18%, rgba(75,111,68,1) 37%, rgba(0,106,39,1) 53%, rgba(86,130,3,1) 79%, rgba(102,255,0,1) 100%);
+    background: -webkit-linear-gradient(40deg, rgba(24,255,25,1) 0%, rgba(4,133,80,1) 18%, rgba(75,111,68,1) 37%, rgba(0,106,39,1) 53%, rgba(86,130,3,1) 79%, rgba(102,255,0,1) 100%);
+    background: linear-gradient(40deg, rgba(24,255,25,1) 0%, rgba(4,133,80,1) 18%, rgba(75,111,68,1) 37%, rgba(0,106,39,1) 53%, rgba(86,130,3,1) 79%, rgba(102,255,0,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#18ff19",endColorstr="#66ff00",GradientType=1);
+    margin-bottom: 2em;
+}
+
+.btn:hover {
+
+    background: rgb(24,255,25);
+    background: -moz-linear-gradient(240deg, rgba(24,255,25,1) 0%, rgba(4,133,80,1) 18%, rgba(75,111,68,1) 37%, rgba(0,106,39,1) 53%, rgba(86,130,3,1) 79%, rgba(102,255,0,1) 100%);
+    background: -webkit-linear-gradient(240deg, rgba(24,255,25,1) 0%, rgba(4,133,80,1) 18%, rgba(75,111,68,1) 37%, rgba(0,106,39,1) 53%, rgba(86,130,3,1) 79%, rgba(102,255,0,1) 100%);
+    background: linear-gradient(240deg, rgba(24,255,25,1) 0%, rgba(4,133,80,1) 18%, rgba(75,111,68,1) 37%, rgba(0,106,39,1) 53%, rgba(86,130,3,1) 79%, rgba(102,255,0,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#18ff19",endColorstr="#66ff00",GradientType=1);
+}
+
+.btnContainer {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}
+
+.soicalIcon {
+    background-color: rgba(0, 217, 255, 0.068); 
+    border: none;
+    opacity: 0.8;
+    border-radius: 100%;
+}
+
+.soicalIcon:hover {
+    opacity: 1;
+    background-color: rgba(240, 248, 255, 0);
+    
+}
